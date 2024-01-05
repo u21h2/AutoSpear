@@ -1,0 +1,6 @@
+numpy
+requests
+sqlparse
+randomwords
+Levenshtein
+sql-metadata

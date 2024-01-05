@@ -1,0 +1,12 @@
+mod=regi
+log=kar
+pa=7a
+ci=es
+cp=17
+pr=bu
+b1=re
+1.gif
+2.png
+3.txt
+sd=sdf
+as=123
